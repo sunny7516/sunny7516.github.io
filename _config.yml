@@ -4,27 +4,27 @@ url : "https://sunny7516.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Developer Sonalog
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    image : assets/img/profile.jpg
+    username : Sona Hong
+    description : The Blog for my Development Life!🖤
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2017-11-01
+        end : 2020-10-30
+        experience : 하나투어, 사내 인트라넷 개발/운영
     skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+      - skill : Java, Spring framework, Linux, WEB/WAS, SQL, Redis
+        value : 50  # Percent value
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email:  # Full email address, e.g. "limbo001@naver.com"
     linkedin:  # Full URL 
-    github: naye0ng
+    github: sunny7516
     gitlab: 
     bitbucket: 
     google_plus:
